@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Göktuğ 👋
+
+🎓 Computer Engineering Student at Hacettepe University | Web Development Enthusiast
+Welcome to my GitHub profile! I'm a senior year student in Computer Engineering at Hacettepe University, passionate about crafting beautiful and functional websites. Here's a quick overview of my journey and interests:
+
+🌐 About My Web Development Journey
+🚀 I have a strong interest in web development, particularly in frontend technologies.
+🛠 I'm skilled in HTML, CSS, JavaScript, and I'm currently diving deeper into React.js.
+📚 Constantly learning and experimenting with new web technologies to broaden my skill set.
+📝 I enjoy solving problems and turning ideas into visually appealing and user-friendly interfaces.
 
 <!--
 **goktugocaklioglu/goktugocaklioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
